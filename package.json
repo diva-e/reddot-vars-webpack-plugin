@@ -1,0 +1,8 @@
+{
+  "name": "reddot-webpack-plugin",
+  "version": "1.0.0",
+  "description": "A Webpack plugin for replacing special comment instructions inside your JavaScript",
+  "main": "index.js",
+  "author": "Kristof Dreier <kristof.dreier@diva-e.com>",
+  "license": "MIT"
+}
